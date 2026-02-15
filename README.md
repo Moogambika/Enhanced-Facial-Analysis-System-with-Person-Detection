@@ -105,17 +105,17 @@ cd enhanced-facial-analysis
 python -m venv venv
 venv\Scripts\activate  # Windows
 source venv/bin/activate  # Mac/Linux
-pip install -r requirements_enhanced.txt
+pip install -r requirements_emotion.txt
 
 
 Run:
 
-python emotion_detector_enhanced.py
+python emotion_detector_pro.py
 
 
 Web App:
 
-python app_emotion_web_enhanced.py
+python app_emotion_improved.py
 
 👩‍💻 Author
 
