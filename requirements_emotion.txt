@@ -1,0 +1,27 @@
+# Emotion Detection System - Updated Requirements
+# Compatible with Python 3.9-3.13 (pre-built wheels)
+
+# Core deep learning
+deepface==0.0.79
+
+# Use pre-built numpy wheel (no compilation needed)
+numpy>=2.0.0
+
+# TensorFlow and Keras
+tensorflow>=2.20.0
+keras>=3.0.0
+
+# YOLOv8 for person detection
+ultralytics>=8.0.0
+
+# Computer vision
+opencv-python>=4.8.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Web interface
+gradio>=4.8.0
+
+# Utilities
+matplotlib>=3.8.0
